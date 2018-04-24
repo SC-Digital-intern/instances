@@ -41,6 +41,23 @@
 						get_the_title()
 					) );
 				?>
+				  <section class="container_1" style="display: flex;">
+						<div class="container1">
+							<p>Facebook wants to be more transparent about what is and isn't allowed on the world's largest social network.</p>
+						</div>
+						<div class="container2">
+							<p>On Tuesday, the company released an updated version of its Community Standards guidelines -- the rules that dictate what's acceptable content for its 2.2 billion users to post.</p>
+						</div>
+					</section>
+					<section class="container_2" style="display: flex;">
+						<div class="container3" style="padding: 10px;">
+							<p>Facebook's rules themselves haven't changed. What's new is the release of the comprehensive guidelines its content moderators use to handle objectionable material. Previously, users could only see surface-level descriptions of what they couldn't post. Now, the rules provide details on how Facebook deals with specific situations and defines certain terms.</p>
+						</div>
+					  <div class="container4">
+							<p>For example, the social network says it defines a "mass murder" as a homicide that "results in 4 or more deaths in one incident." And in the section on harassment, Facebook says people can't send a message that "calls for death, serious disease or disability, or physical harm" or "claims that a victim of a violent tragedy is lying about being a victim."</p>
+						</div>
+					</section>
+				</div>
 			</div><!-- .entry-content -->
 
 		</div><!-- .wrap -->
